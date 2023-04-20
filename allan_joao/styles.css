@@ -1,0 +1,12 @@
+body {
+    margin: 1;
+}
+
+nav {
+    background-color: #302e2e;
+    padding: 0 20px;
+    align-items: center;
+    position: fixed;
+    width: calc(100% - 40px);
+    top: 0;
+}
