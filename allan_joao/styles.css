@@ -3,8 +3,8 @@ body {
 }
 
 nav {
-    background-color: #302e2e;
-    padding: 0 20px;
+    background-color: #4c4b4b;
+    padding: 0 30px;
     align-items: center;
     position: fixed;
     width: calc(100% - 40px);
